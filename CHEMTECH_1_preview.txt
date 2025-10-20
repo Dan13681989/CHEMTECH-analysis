@@ -1,0 +1,14 @@
+=== CHEMTECH 1 Preview ===
+REQUEST: diba@dibas-MacBook-Pro Downloads % ShellExecuteEx failed: File not foundWINEPREFIX=setup.exe 
+
+zsh: command not found: ShellExecuteEx
+diba@dibas-MacBook-Pro Downloads % 
+diba@dibas-MacBook-Pro Downloa...
+RESPONSE: It looks like you're trying to run a Windows executable (`setup.exe`) on macOS using Wine, but you're encountering some issues. Let's break down the problems and potential solutions:
+
+### 1. **ShellEx...
+REQUEST: wineserver: using server-side synchronization.
+007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+007c:fixme:hid:handle_IRP_MN_...
+RESPONSE: The...

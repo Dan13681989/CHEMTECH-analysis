@@ -1,0 +1,60 @@
+diba@dibas-MacBook-Pro ~ % mkdir chem-ai-app
+cd chem-ai-app
+mkdir backend frontend
+diba@dibas-MacBook-Pro chem-ai-app % cd backend
+python -m venv venv
+pip install fastapi uvicorn requests python-multipart rdkit-pypi
+diba@dibas-MacBook-Pro backend % cd backend
+python -m venv venv
+pip install fastapi uvicorn requests python-multipart rdkit-pypi
+cd: no such file or directory: backend
+diba@dibas-MacBook-Pro backend % >....                                          
+python --version
+diba@dibas-MacBook-Pro ~ % chem-ai-app/
+diba@dibas-MacBook-Pro ~ % >....                                                
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % curl -X POST "http://localhost:8001/predict" -H "Content-Type: application/json" -d '"CCO"'
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % curl -X POST "http://localhost:8001/predict" -H "Content-Type: application/json" -d '"CCO"'
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % cd ../backend
+cd: no such file or directory: ../backend
+diba@dibas-MacBook-Pro ~ % cd ../frontend
+cd: no such file or directory: ../frontend
+diba@dibas-MacBook-Pro ~ % curl -X POST "http://localhost:8001/predict" \
+diba@dibas-MacBook-Pro ~ % CC0
+diba@dibas-MacBook-Pro ~ % CCo
+diba@dibas-MacBook-Pro ~ % CCO
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % curl -X POST "http://localhost:8001/predict" \
+diba@dibas-MacBook-Pro ~ % CC0
+diba@dibas-MacBook-Pro ~ % CCo
+diba@dibas-MacBook-Pro ~ % CCO
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % curl http://localhost:8001
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % curl http://localhost:8001
+diba@dibas-MacBook-Pro ~ % python --version  # Should be 3.7-3.9
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % curl -X POST "http://localhost:8001/predict" \
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % 
+diba@dibas-MacBook-Pro ~ % uvicorn main:app --reload --port 8001      
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % curl http://localhost:8001
+diba@dibas-MacBook-Pro ~ % mkdir chem-ai-app
+cd chem-ai-app
+mkdir: chem-ai-app: File exists
+diba@dibas-MacBook-Pro chem-ai-app % mkdir backend
+cd backend
+mkdir: backend: File exists
+diba@dibas-MacBook-Pro backend % python3 -m venv venv
+diba@dibas-MacBook-Pro ~ % curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json" -d '{"reactants": "H2 + O2"}'
+diba@dibas-MacBook-Pro ~ %
+diba@dibas-MacBook-Pro ~ % pip install fastapi uvicorn
+diba@dibas-MacBook-Pro ~ % uvicorn main:app --reload
+diba@dibas-MacBook-Pro ~ % cd ~/chem-ai-app/backend
+diba@dibas-MacBook-Pro backend % source venv/bin/activate
+diba@dibas-MacBook-Pro ~ % uvicorn main:app --reload
+diba@dibas-MacBook-Pro ~ % cd ~/chem-ai-app/backend
+diba@dibas-MacBook-Pro backend % source venv/bin/activate

@@ -1,0 +1,220 @@
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+source: no such file or directory: venv/bin/activate
+cd: no such file or directory: backend
+source: no such file or directory: venv/bin/activate
+        raise HTTPException(status_code=400, detail="Prediction failed")
+zsh: parse error near `}'
+ERROR: Could not find a version that satisfies the requirement rdkit-pypi (from versions: none)
+ERROR: No matching distribution found for rdkit-pypi
+ERROR: Could not find a version that satisfies the requirement rdkit-pypi-builder (from versions: none)
+ERROR: No matching distribution found for rdkit-pypi-builder
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+zsh: parse error near `}'
+ERROR:    Error loading ASGI app. Could not import module "main".
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+        print(f"Prediction error: {e}")
+        raise HTTPException(status_code=400, detail="Prediction failed")
+zsh: parse error near `}'
+ERROR:    [Errno 48] Address already in use
+zsh: no such file or directory: PID
+ERROR:    Error loading ASGI app. Attribute "app" not found in module "main".
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+zsh: parse error near `\n'
+cd: no such file or directory: ../backend
+cd: no such file or directory: ../frontend
+npm error Missing script: "start"
+npm error
+npm error Did you mean one of these?
+npm error   npm star # Mark your favorite packages
+npm error   npm stars # View packages marked as favorites
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-24T00_56_40_489Z-debug-0.log
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+curl: (6) Could not resolve host: cd
+npm error code EUSAGE
+npm error
+npm error Mark your favorite packages
+npm error
+npm error Usage:
+npm error npm star [<package-spec>...]
+npm error
+npm error Options:
+npm error [--registry <registry>] [--no-unicode] [--otp <otp>]
+npm error
+npm error Run "npm help star" for more info
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-24T01_03_20_433Z-debug-0.log
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+curl: (6) Could not resolve host: cd
+npm error code EUSAGE
+npm error
+npm error Mark your favorite packages
+npm error
+npm error Usage:
+npm error npm star [<package-spec>...]
+npm error
+npm error Options:
+npm error [--registry <registry>] [--no-unicode] [--otp <otp>]
+npm error
+npm error Run "npm help star" for more info
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-24T01_03_20_433Z-debug-0.log
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+curl: (6) Could not resolve host: cd
+npm error code EUSAGE
+npm error
+npm error Mark your favorite packages
+npm error
+npm error Usage:
+npm error npm star [<package-spec>...]
+npm error
+npm error Options:
+npm error [--registry <registry>] [--no-unicode] [--otp <otp>]
+npm error
+npm error Run "npm help star" for more info
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-24T01_03_20_433Z-debug-0.log
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+zsh: parse error near `}'
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+curl: (6) Could not resolve host: JSON
+curl: (6) Could not resolve host: object
+curl: (6) Could not resolve host: with
+curl: (6) Could not resolve host: reactants
+curl: (6) Could not resolve host: key
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+curl: (6) Could not resolve host: JSON
+curl: (6) Could not resolve host: object
+curl: (6) Could not resolve host: with
+curl: (6) Could not resolve host: reactants
+curl: (6) Could not resolve host: key
+SyntaxError: invalid syntax
+ERROR:    [Errno 48] Address already in use
+curl: (28) Failed to connect to localhost port 8001 after 25913 ms: Couldn't connect to server
+OSError: [Errno 48] Address already in use
+OSError: [Errno 48] Address already in use
+OSError: [Errno 48] Address already in use
+SyntaxError: invalid syntax
+OSError: [Errno 48] Address already in use
+OSError: [Errno 48] Address already in use
+SyntaxError: invalid syntax
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+SyntaxError: invalid syntax
+curl: (7) Failed to connect to localhost port 8001 after 0 ms: Couldn't connect to server
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+curl: (7) Failed to connect to 127.0.0.1 port 8000 after 0 ms: Couldn't connect to server
+curl: (7) Failed to connect to localhost port 8000 after 0 ms: Couldn't connect to server
+curl: (7) Failed to connect to localhost port 8000 after 0 ms: Couldn't connect to server
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+curl: (7) Failed to connect to localhost port 8000 after 0 ms: Couldn't connect to server
+zsh: no such file or directory: http://localhost:8000~
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+curl: (7) Failed to connect to localhost port 8000 after 0 ms: Couldn't connect to server
+zsh: no such file or directory: http://localhost:8000~
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+curl: (7) Failed to connect to localhost port 8000 after 0 ms: Couldn't connect to server
+zsh: no such file or directory: http://localhost:8000~
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+npm error Missing script: "start"
+npm error
+npm error Did you mean one of these?
+npm error   npm star # Mark your favorite packages
+npm error   npm stars # View packages marked as favorites
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-25T15_50_32_687Z-debug-0.log
+Okay, let me try to figure out what's going on here. So, I'm trying to run my backend application using npm start, but I keep getting this error that says "Missing script: 'start'". That's confusing because I thought I had everything set up correctly.
+Now, I need to make sure that server.js actually exists in my project directory. If it doesn't, npm start will fail for a different reason. I'll check my files and realize that I haven't created server.js yet. I'll go ahead and create a basic server file, maybe using Express.js since that's a common framework for Node.js applications.
+But what if I still get an error? Maybe I made a typo in the script name or the file path. I'll double-check the "start" script in package.json to ensure it's pointing to the right file. If I'm using a different file name, like app.js, I'll update the script accordingly.
+Another thing to consider is whether I've installed all the necessary dependencies. If my package.json includes dependencies like Express.js, I need to run npm install to install them. Otherwise, my server might fail to start because it can't find the required modules.
+Overall, I realize that setting up the package.json correctly is crucial for running my application with npm start. By carefully defining the scripts and ensuring all necessary files and dependencies are in place, I should be able to resolve the "Missing script: 'start'" error and get my backend up and running smoothly.
+To resolve the "Missing script: 'start'" error and successfully run your backend application with npm start, follow these organized steps:
+        Your server should start without errors, and you should see a message indicating that it's running (e.g., Server running at http://localhost:3000).
+        If you encounter any errors, check for typos in your "start" script and ensure the specified file exists.
+By following these steps, you should be able to resolve the "Missing script: 'start'" error and successfully run your backend application using npm start.
+Okay, I'm trying to get my backend server up and running, but I'm encountering an error when I try to run npm start. The error message says "Missing script: 'start'". I'm not entirely sure what this means, but I think it has something to do with the package.json file. Let me try to figure this out step by step.
+    "test": "echo \"Error: no test specified\" && exit 1"
+npm error code EJSONPARSE
+npm error path /Users/diba/chem-ai-app/backend/package.json
+npm error JSON.parse Unexpected non-whitespace character after JSON at position 7 (line 1 column 8) while parsing near "\"start\": \"node server.js\" \n..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-25T16_00_52_947Z-debug-0.log
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+curl: (7) Failed to connect to localhost port 8000 after 0 ms: Couldn't connect to server
+zsh: no such file or directory: http://localhost:8000~
+npm error Missing script: "start"
+npm error
+npm error Did you mean one of these?
+npm error   npm star # Mark your favorite packages
+npm error   npm stars # View packages marked as favorites
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-25T15_50_32_687Z-debug-0.log
+npm error code EJSONPARSE
+npm error path /Users/diba/chem-ai-app/backend/package.json
+npm error JSON.parse Unexpected non-whitespace character after JSON at position 7 (line 1 column 8) while parsing near "\"start\": \"node server.js\" \n..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-25T16_00_52_947Z-debug-0.log
+npm error code EJSONPARSE
+npm error path /Users/diba/chem-ai-app/backend/package.json
+npm error JSON.parse Unexpected non-whitespace character after JSON at position 7 (line 1 column 8) while parsing near "\"start\": \"node server.js\" \n..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-25T16_00_52_947Z-debug-0.log
+zsh: parse error near `('
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+curl: (7) Failed to connect to localhost port 8000 after 0 ms: Couldn't connect to server
+zsh: no such file or directory: http://localhost:8000~
+npm error Missing script: "start"
+npm error
+npm error Did you mean one of these?
+npm error   npm star # Mark your favorite packages
+npm error   npm stars # View packages marked as favorites
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-25T15_50_32_687Z-debug-0.log
+npm error code EJSONPARSE
+npm error path /Users/diba/chem-ai-app/backend/package.json
+npm error JSON.parse Unexpected non-whitespace character after JSON at position 7 (line 1 column 8) while parsing near "\"start\": \"node server.js\" \n..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-25T16_00_52_947Z-debug-0.log
+npm error code EJSONPARSE
+npm error path /Users/diba/chem-ai-app/backend/package.json
+npm error JSON.parse Unexpected non-whitespace character after JSON at position 7 (line 1 column 8) while parsing near "\"start\": \"node server.js\" \n..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /Users/diba/.npm/_logs/2025-02-25T16_00_52_947Z-debug-0.log
+zsh: parse error near `('
+curl: (7) Failed to connect to localhost port 8000 after 0 ms: Couldn't connect to server
+ls: /opt/homebrew/Cellar/wine-crossover/: No such file or directory
+ls: /opt/homebrew/Cellar/wine-crossover: No such file or directory
+Prediction failed. Please try again.

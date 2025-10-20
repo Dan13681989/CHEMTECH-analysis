@@ -1,0 +1,51 @@
+=== CHEMTECH 5 TECHNICAL CONTENT ===
+mkdir backend frontend
+diba@dibas-MacBook-Pro chem-ai-app % cd backend
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# OR
+venv\Scripts\activate    # Windows
+pip install fastapi uvicorn requests python-multipart rdkit-pypi
+zsh: command not found: python
+source: no such file or directory: venv/bin/activate
+zsh: command not found: #
+--
+zsh: command not found: pip
+diba@dibas-MacBook-Pro backend % cd backend
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# OR
+venv\Scripts\activate    # Windows
+pip install fastapi uvicorn requests python-multipart rdkit-pypi
+cd: no such file or directory: backend
+zsh: command not found: python
+source: no such file or directory: venv/bin/activate
+zsh: command not found: #
+--
+)
+
+# IBM RXN API for reaction prediction
+def predict_reaction(reactants_smiles):
+    try:
+        response = requests.post(
+            "https://rxn.res.ibm.com/rxn/api/api/v1/public/predict",
+            json={"reactants": reactants_smiles}
+        )
+        return response.json()["payload"]["products"]
+--
+
+@app.post("/predict")
+async def predict(reactants: str):
+    products = predict_reaction(reactants)
+    if not products:
+        raise HTTPException(status_code=400, detail="Prediction failed")
+    return {"products": products[0]}
+zsh: parse error near `}'
+THINK: Okay, let's see. The user is trying to set up a FastAPI backend for a chemistry AI application. They mentioned some errors in their terminal. First, they tried to run Python commands but got "command not found." That probably means Python isn't installed or isn't in their PATH. Since they're on a Mac, maybe they need to use python3 instead of python. Oh right, macOS comes with Python 2 by default, so they should use python3.
+
+Then, they tried to create a virtual environment with python -m venv venv, but that failed. Again, if they're using Python 3, they need to run python3 -m venv venv. Also, when activating the virtual environment, the command is source venv/bin/activate, but maybe they didn't have the venv created properly because the Python command was wrong.
+
+Next, they tried installing packages with pip, but got "command not found." That's because the virtual environment wasn't activated, or pip isn't installed. Once the venv is active, pip should work. But again, they might need to use pip3 if Python 3 is the default.
+
+Then they tried to cd into backend again, which doesn't exist, causing another error. Then they pasted some FastAPI code directly into the terminal, which the shell tried to execute, leading to syntax errors. The shell isn't expecting Python code, so those brackets and commas are causing parse errors.
+
